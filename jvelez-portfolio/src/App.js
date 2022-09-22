@@ -1,5 +1,12 @@
-import logo from './logo.svg';
+import React, { useState, useEffect } from "react";
 import './App.css';
+import Main from "./containers/Main";
+import { ThemeProvider } from "styled-components";
+import { themes } from "./theme";
+import { GlobalStyles } from "./global";
+import { settings } from "./portfolio";
+
+
 
 function App() {
   return (
