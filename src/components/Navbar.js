@@ -28,7 +28,17 @@ export default function Navbar() {
           <a href="https://drive.google.com/file/d/15yObUP2aK-ncIojno4sWBFgwKeRukSKC/view" className="mr-5 hover:text-pumpkin">
             Resume
           </a>
+          <a href="https://drive.google.com/file/d/15yObUP2aK-ncIojno4sWBFgwKeRukSKC/view" className="mr-5 hover:text-pumpkin">
+            Resume
+          </a>
         </nav>
+        {/* <div className="mx-auto inline-block w-10 mb-4" >
+          <img
+            className="object-cover object-center rounded"
+            alt="hero"
+            src="./linkedin-social-media-svgrepo-com.svg"
+          />
+        </div> */}
         <button className="inline-flex items-center bg-oxfordBlue border-0 py-1 px-3 focus:outline-none hover:bg-prussianBlue rounded text-goldGolden mt-4 md:mt-0" >
       
         <a
