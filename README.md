@@ -6,8 +6,6 @@
 
   * [Description](#Description)
 
-  * [Contributions](#Contributions)
-
   * [Website](#Website)
 
   * [Email](#Questions)
@@ -19,13 +17,8 @@
 Being a web developer means being part of a community. Here is my place to share my projects not only for applying for jobs or working as a freelancer but also so that you can share your work with fellow developers and collaborate on future projects.
 
 
-
   ## Website:
 
-  
-
-  ## Contributions: 
-  * Jesus Velez (https://github.com/JVelezFD)
 
   ## Website: 
   
