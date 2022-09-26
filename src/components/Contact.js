@@ -37,7 +37,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=510+Piedmont+Avenue+Northeast,+Atlanta,+GA,+USA&key=REACT_API_KEY"
+            src= "https://www.google.com/maps/embed/v1/place?q=510+Piedmont+Avenue+Northeast,+Atlanta,+GA,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-richBlack relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -54,12 +54,12 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-goldGolden leading-relaxed">
-                jvelez117@gmail.com
+                jvelez@gmail.com
               </a>
               <h2 className="title-font font-semibold text-lightGrey tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed text-goldGolden">808.690.6111</p>
+              <p className="leading-relaxed text-goldGolden">808.690.6110</p>
             </div>
           </div>
         </div>
