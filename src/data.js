@@ -23,18 +23,32 @@ export const projects = [
     image: "./proj3.png",
     link: "https://github.com/JVelezFD/TextEditorUsingPWA",
   },
+  {
+    title: "Employee Tracker",
+    subtitle: "Node, Inquirer, and MySQL",
+    description:
+      "Interface command program that make it easy for non-developers to view and interact with information stored in databases.",
+    image: "./proj4.png",
+    link: "https://github.com/JVelezFD/employeetrackerviamysql",
+  },
+  {
+    title: "Password Generator",
+    subtitle: "JS & UI Materials ",
+    description:
+      "This web app will generate a random password character sizes ranging from 8-128 characers.",
+    image: "./proj5.png",
+    link: "https://github.com/JVelezFD/pwdgenerator",
+  },
+  {
+    title: "Text Editor",
+    subtitle: "Node, HandleBars, & JS",
+    description:
+      "A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.",
+    image: "./proj6.png",
+    link: "https://github.com/JVelezFD/techblog",
+  },
 ]
 
-
-//   {
-//     title: "project 4 soon",
-//     subtitle: "",
-//     description:
-//       "",
-//     image: "",
-//     link: "",
-//   },
-// ];
 
 
 

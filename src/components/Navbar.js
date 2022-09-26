@@ -19,6 +19,11 @@ export default function Navbar() {
             Past Work
           </a>
           </Link>
+          <Link to="/about" >
+          <a  className="mr-5 hover:text-pumpkin">
+            About Me
+          </a>
+          </Link>
           <Link to="/skills">
           <a  className="mr-5 hover:text-pumpkin">
             Skills

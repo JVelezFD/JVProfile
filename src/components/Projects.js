@@ -14,6 +14,11 @@ export default function Projects() {
           <p className="lg:w-2/3 mx-auto leading-relaxed text-lightGrey">
             As I started my Full Stack Dev journey below are some apps I enjoyed building.
           </p>
+          
+          <a href="https://github.com/JVelezFD" className="mr-5 hover:text-pumpkin">
+            My GitHub
+          </a>
+          
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
