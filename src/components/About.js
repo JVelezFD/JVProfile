@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom"
 
 export default function About() {
   return (
@@ -14,21 +15,21 @@ export default function About() {
             I'm a Full Stack Dev, Artist, and Gamer. Always learning is my mantra.
           </p>
           <div className="flex justify-center">
-            <a
-              href="#contact"
-              className="inline-flex text-goldGolden bg-oxfordBlue border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">
+            <Link to= "/contact">
+            <a className="inline-flex text-goldGolden bg-oxfordBlue border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">
               Contact Me
             </a>
+            </Link>
             <a
               href="https://drive.google.com/file/d/15yObUP2aK-ncIojno4sWBFgwKeRukSKC/view"
               className=" ml-4 inline-flex text-goldGolden bg-oxfordBlue border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">
               Resume
             </a>
-            <a
-              href="#projects"
-              className="ml-4 inline-flex text-oxfordBlue bg-lightGrey border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue hover:text-goldGolden rounded text-lg">
+            <Link to= '/projects'>
+            <a className="ml-4 inline-flex text-oxfordBlue bg-lightGrey border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue hover:text-goldGolden rounded text-lg">
               See My Past Work
             </a>
+            </Link>
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
