@@ -16,19 +16,19 @@ export default function About() {
           </p>
           <div className="flex justify-center">
             <Link to= "/contact">
-            <a className="inline-flex text-goldGolden bg-oxfordBlue border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">
+            <div className="inline-flex text-goldGolden bg-oxfordBlue border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">
               Contact Me
-            </a>
+            </div>
             </Link>
-            <a
+            <div
               href="https://drive.google.com/file/d/15yObUP2aK-ncIojno4sWBFgwKeRukSKC/view"
               className=" ml-4 inline-flex text-goldGolden bg-oxfordBlue border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">
               Resume
-            </a>
+            </div>
             <Link to= '/projects'>
-            <a className="ml-4 inline-flex text-oxfordBlue bg-lightGrey border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue hover:text-goldGolden rounded text-lg">
+            <div className="ml-4 inline-flex text-oxfordBlue bg-lightGrey border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue hover:text-goldGolden rounded text-lg">
               See My Past Work
-            </a>
+            </div>
             </Link>
           </div>
         </div>
