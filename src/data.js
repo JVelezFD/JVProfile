@@ -47,6 +47,15 @@ export const projects = [
     image: "./proj6.png",
     link: "https://github.com/JVelezFD/techblog",
   },
+    // {
+    //   title: "Triviyaa ",
+    //   subtitle: "MERN",
+    //   description:
+    //     "Have you ever wanted to play trivia but are annoyed with all of the tiny slips of paper, pens that won't write, and counting up all of the answers? Triviyaa is for you",
+    //   image: "./triviyaawink.PNG.png",
+    //   link: "https://github.com/JVelezFD/triviyaa",
+    // },
+  
 ]
 
 

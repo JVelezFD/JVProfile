@@ -27,7 +27,7 @@ export default function About() {
             </div>
             <Link to= '/projects'>
             <div className="ml-4 inline-flex text-oxfordBlue bg-lightGrey border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue hover:text-goldGolden rounded text-lg">
-              See My Past Work
+              See My Projects
             </div>
             </Link>
           </div>
