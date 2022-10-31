@@ -20,11 +20,13 @@ export default function About() {
               Contact Me
             </div>
             </Link>
+            <Link>
             <div
-              href="https://drive.google.com/file/d/15yObUP2aK-ncIojno4sWBFgwKeRukSKC/view"
+              href="https://drive.google.com/file/d/1187OdTgRDPYaYd7uJfXnNzz2xC7ytkwU/view?usp=share_link"
               className=" ml-4 inline-flex text-goldGolden bg-oxfordBlue border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">
               Resume
             </div>
+            </Link>
             <Link to= '/projects'>
             <div className="ml-4 inline-flex text-oxfordBlue bg-lightGrey border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue hover:text-goldGolden rounded text-lg">
               See My Projects
