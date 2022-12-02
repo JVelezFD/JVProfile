@@ -22,7 +22,7 @@ Being a web developer means being part of a community. Here is my place to share
 
   ## Questions:
 
-  [Email](mailto:jvelez117@gmail.com)
+  [Email](mailto:jvelezfd@gmail.com)
 
   [GitHub](https://github.com/JVelezFD)
 
