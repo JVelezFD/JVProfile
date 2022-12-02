@@ -39,7 +39,7 @@ export default function Contact() {
             style={{ filter: "opacity(0.7)" }}
             src= "https://www.google.com/maps/embed/v1/place?q=510+Piedmont+Avenue+Northeast,+Atlanta,+GA,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
-          <div className="bg-richBlack relative flex flex-wrap py-6 rounded shadow-md">
+          <div className="bg-richBlack relative flex flex-wrap py-6 px-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-lightGrey tracking-widest text-xs">
                 ADDRESS
@@ -52,7 +52,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-lightGrey tracking-widest text-xs">
                 EMAIL
               </h2>
-              <div className="text-goldGolden leading-relaxed">
+              <div className="text-goldGolden leading-relaxed ">
                 jvelezfd@gmail.com
               </div>
               <h2 className="title-font font-semibold text-lightGrey tracking-widest text-xs mt-4">
