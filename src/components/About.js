@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom"
+import MyModal from "./MyModal";
 
 export default function About() {
+  const [showMyModal, setShowMyModal] = useState(false);
+  const handleOnClose = () => setShowMyModal(false);
   return (
     <section  id="about" className="bg-richBlack">
       <div className="container bg-richBlack mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
@@ -22,7 +25,7 @@ export default function About() {
             </Link>
             <Link>
             <div
-              href="https://drive.google.com/file/d/1187OdTgRDPYaYd7uJfXnNzz2xC7ytkwU/view?usp=share_link"
+              href="https://drive.google.com/file/d/1d59YgJpDZGpWoIft2JxOtftd8EtksXB5/view?usp=sharing"
               className=" ml-4 inline-flex text-goldGolden bg-oxfordBlue border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">
               Resume
             </div>
@@ -34,12 +37,18 @@ export default function About() {
             </Link>
           </div>
         </div>
+
+        
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
             className="object-cover object-center rounded"
             alt="hero"
             src="./coding.svg"
-          />
+            />
+            <button onClick = {() => setShowMyModal(true)} className= "inline-flex text-goldGolden bg-oxfordBlue border-1 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">More About Me</button>
+            <div>
+              <MyModal onClose ={handleOnClose} visible={showMyModal}/>
+            </div>
         </div>
       </div>
     </section>

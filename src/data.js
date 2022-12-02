@@ -66,7 +66,7 @@ export const skills = [
   "React",
   "Node",
   "GraphQL",
-  "Material UI",
+  "BootStrap",
   "MongoDB",
   "MySQL",
   "Apollo",
