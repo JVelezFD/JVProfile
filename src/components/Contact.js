@@ -45,8 +45,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1 text-goldGolden">
-                510 Piedmont Ave NE <br />
-                Atlanta, GA 30024
+                Atlanta, GA 
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
