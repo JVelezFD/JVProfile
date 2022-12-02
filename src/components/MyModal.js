@@ -21,7 +21,7 @@ export default function MyModal({ visible, onClose }) {
           research. I excel in analyzing and evaluating consumer engagements,
           executive communications, channel distribution optimization,
           understanding and capitalizing on multi-industry megatrends, and
-          transformational change management. Proficient in the MERN Stack;
+          transformational change management. Proficient in the <p className="font-bold">MERN Stack;</p>
           flexible, fast learner bringing curiosity and passion to every
           project. My teammates would describe me as energetic, articulate, and
           personable. I like to think that I bring a confident demeanor to any

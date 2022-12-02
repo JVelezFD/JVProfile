@@ -24,10 +24,12 @@ export default function About() {
             </div>
             </Link>
             <Link>
-            <div
+            <div>
+              <a
               href="https://drive.google.com/file/d/1d59YgJpDZGpWoIft2JxOtftd8EtksXB5/view?usp=sharing"
               className=" ml-4 inline-flex text-goldGolden bg-oxfordBlue border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue rounded text-lg">
               Resume
+              </a>
             </div>
             </Link>
             <Link to= '/projects'>
