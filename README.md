@@ -18,7 +18,7 @@ Being a web developer means being part of a community. Here is my place to share
 
 
   ## Website: Deployed on Netlify 
-  https://main--stately-hamster-2d3f2f.netlify.app/
+ https://friendly-starlight-254282.netlify.app/
 
   ## Questions:
 
