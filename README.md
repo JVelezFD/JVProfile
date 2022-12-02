@@ -24,7 +24,7 @@ Away from professional life, I spend my time competing in professional gaming, d
  https://friendly-starlight-254282.netlify.app/
  
  ## Technical Skills 
- [![My Skills](https://skillicons.dev/icons?i=apollo,bootstrap,css,discord,express,github,git,graphql,heroku,html,js,mongodb,mysql,nodejs,react,tailwind&perline=7)](https://skillicons.dev)
+ ![My Skills](https://skillicons.dev/icons?i=apollo,bootstrap,css,discord,express,github,git,graphql,heroku,html,js,mongodb,mysql,nodejs,react,tailwind&perline=7)
  
  ## Connect with me
  [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=7)](https://www.linkedin.com/in/j-velez-fiserv/)
