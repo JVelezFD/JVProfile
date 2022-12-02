@@ -29,9 +29,9 @@ export default function Navbar() {
             Skills
           </div>
           </Link>
-          {/* <div href="https://drive.google.com/file/d/1187OdTgRDPYaYd7uJfXnNzz2xC7ytkwU/view?usp=sharing" className="mr-5 hover:text-pumpkin">
+          <div href="https://drive.google.com/file/d/1d59YgJpDZGpWoIft2JxOtftd8EtksXB5/view?usp=sharing" className="mr-5 hover:text-pumpkin">
             Resume
-          </div> */}
+          </div>
           <div>
          
           <div
