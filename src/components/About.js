@@ -23,7 +23,7 @@ export default function About() {
               Contact Me
             </div>
             </Link>
-            <Link>
+            
             <div>
               <a
               href="https://drive.google.com/file/d/1d59YgJpDZGpWoIft2JxOtftd8EtksXB5/view?usp=sharing"
@@ -31,7 +31,7 @@ export default function About() {
               Resume
               </a>
             </div>
-            </Link>
+            
             <Link to= '/projects'>
             <div className="ml-4 inline-flex text-oxfordBlue bg-lightGrey border-0 py-2 px-6 focus:outline-none hover:bg-prussianBlue hover:text-goldGolden rounded text-lg">
               See My Projects
